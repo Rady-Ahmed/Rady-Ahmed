@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rady-Ahmed
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning c sharp 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my school 
 - 📫 How to reach me the top
 
 <!---
